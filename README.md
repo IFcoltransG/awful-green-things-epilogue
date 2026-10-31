@@ -1,3 +1,5 @@
+# [MIGRATED TO CODEBERG 2016-10-31](https://codeberg.org/IFcoltransG/awful-green-things-epilogue)
+
 # Awful Green Things Epilogue
 A Python implementation of the epilogue from 'Awful Green Things from Outer Space' board game so you don't have to roll all those dice manually just to figure out who won.
 
